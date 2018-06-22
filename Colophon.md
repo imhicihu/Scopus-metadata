@@ -6,9 +6,9 @@
     - 
     - 
 * Software
-    - Atom
-    - NotepadII
-    - OpenOffice
+    - [Atom](https://atom.io/)
+    - [Notepad++](https://notepad-plus-plus.org/download/v7.5.6.html)
+    - [OpenOffice](https://www.openoffice.org/es/)
     - 
 
 ## Legal ##
