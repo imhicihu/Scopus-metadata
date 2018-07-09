@@ -5,14 +5,14 @@ Good practices on metadata insertion on digital assets, according the directives
 ### What is this repository for? ###
 
 * Quick summary
-    - Good practices on xml files treatment on metadata information: gathering data, formatting, testin
-	- A systematize-to_do-checklist formulÃ¦ to generate xml files according {Scopus](https://www.scopus.com/)
+    - Actions, checklists and procedures applied on xml files, therefore over on metadata datum: gathering data, formatting, internal testings, sorting, _et alia_
+	- A systematize-to_do-checklist formulæ to generate xml files according [Scopus](https://www.scopus.com/)
 * Version 1.03
 
 ### How do I get set up? ###
 
 * Summary of set up
-    - _Vide_ Colophon.md
+    - _Vide_ [Colophon.md](https://bitbucket.org/imhicihu/scopus-metadata/src/e20bd6d0b69dacf52ea480137fbb338396d44844/Colophon.md?at=master&fileviewer=file-view-default)
 * Configuration
     - _In the making_
 * Dependencies
