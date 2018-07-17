@@ -26,7 +26,7 @@ Good practices on metadata insertion on digital assets, according the directives
 
 ### Issues ###
 
-* Check them on [here](https://bitbucket.org/imhicihu/scopus-metadata/commits/)
+* Check them on [here](https://bitbucket.org/imhicihu/scopus-metadata/issues)
 
 ### Changelog ###
 
