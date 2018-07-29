@@ -2,6 +2,7 @@
 * https://dev.elsevier.com/
 
 ## XML stuff
+* [JATS: Journal Article Tag Suite](http://jats.niso.org/1.1/)
 * some example of metadata on python script: https://github.com/scopus-api/scopus/blob/master/scopus/scopus_api.py
 * 1) https://www.elsevier.com/authors/author-schemas/xml-in-science-publishing
 * 2) https://www.elsevier.com/authors/author-schemas/elsevier-xml-dtds-and-transport-schemas
