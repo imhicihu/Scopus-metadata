@@ -55,4 +55,4 @@ Good practices on metadata insertion on digital assets, according the directives
 
 ### Licence ###
 
-* The content of this project itself is licensed under the {XXXXXXXXXXXXXX}    
+* The content of this project itself is licensed under the MIT Licence    
