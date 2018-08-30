@@ -32,15 +32,6 @@ Good practices on metadata insertion on digital assets, according the directives
 
 * Please check the [Commits](https://bitbucket.org/imhicihu/scopus-metadata/commits/) section for the current status
 
-### Contribution guidelines ###
-
-* Writing tests
-    - _In the making_
-* Code review
-    - _In the making_
-* Other guidelines
-    - _In the making_
-
 ### Who do I talk to? ###
 
 * Repo owner or admin
