@@ -1,6 +1,6 @@
 # RATIONALE #
 
-Good practices on metadata insertion on digital assets, according the directives of Scopus
+Good practices on metadata insertion on digital assets, according to the directives of Scopus
 
 ### What is this repository for? ###
 
