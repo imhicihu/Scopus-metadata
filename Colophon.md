@@ -15,8 +15,12 @@
      - [Notepad++](https://notepad-plus-plus.org/download/v7.5.6.html)
      - [OpenOffice](https://www.openoffice.org/es/)
      - [oXygen XML Editor](http://www.oxygenxml.com/)
+     - [UTF-8 Validation Tool](https://github.com/digital-preservation/utf8-validator)
      - Xcode command line: This will occur in the MacOS environment. Installed Atom plus some XML plugins, it will offer to install Xcode CLI. Install it.
      - [JSONJSONLint](https://jsonlint.com/) - The JSON Validator
+
+* Online tools
+     - [Smash](https://www.fromsmash.com/): unlimited digital moving/transfer of digital assets
 ## Legal ##
 
 * All trademarks are the property of their respective owners.
