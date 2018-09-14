@@ -1,6 +1,8 @@
+![stability-wip](https://img.shields.io/badge/stability-work_in_progress-lightgrey.svg)
+
 # RATIONALE #
 
-Good practices on metadata insertion on digital assets, according to the directives of Scopus
+* Good practices on metadata insertion on digital assets, according to guidelines and checklists by Scopus
 
 ### What is this repository for? ###
 
