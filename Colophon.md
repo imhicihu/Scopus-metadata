@@ -1,8 +1,7 @@
 ## Technical requeriments ##
 
 * Hardware
-     - Macbook 13 inch
-     - 
+     - Macbook 13 inch 
 
 * Software
      - [Atom](https://atom.io/)
@@ -21,6 +20,8 @@
 
 * Online tools
      - [Smash](https://www.fromsmash.com/): unlimited digital moving/transfer of digital assets
+     - [Plantuml]:(http://www.plantuml.com/plantuml/uml/):  Diagram / deployment diagram / critical path 
+
 ## Legal ##
 
 * All trademarks are the property of their respective owners.
