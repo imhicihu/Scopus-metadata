@@ -21,7 +21,8 @@
 
 * Online tools
      - [Smash](https://www.fromsmash.com/): unlimited digital moving/transfer of digital assets
-     - [Plantuml]:(http://www.plantuml.com/plantuml/uml/):  Diagram / deployment diagram / critical path 
+     - [JSONPlaceholder](https://jsonplaceholder.typicode.com/): Fake Online REST API for Testing and Prototyping
+     - [Plantuml](http://www.plantuml.com/plantuml/uml/):  Diagram / deployment diagram / critical path 
 
 ## Legal ##
 
