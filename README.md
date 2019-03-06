@@ -3,6 +3,7 @@
 # RATIONALE #
 
 * Good practices on metadata insertion on digital assets, according to guidelines and checklists by Scopus
+![scopus.jpeg](https://bitbucket.org/repo/64jkj76/images/1207730341-scopus.jpeg)
 
 ### What is this repository for? ###
 
