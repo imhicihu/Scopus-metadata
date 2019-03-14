@@ -15,11 +15,13 @@
      - [OpenOffice](https://www.openoffice.org/es/)
      - [oXygen XML Editor](http://www.oxygenxml.com/)
      - [Carbon](https://carbon.now.sh/): (Automatization on code screen sharing)
-     - [UTF-8 Validation Tool](https://github.com/digital-preservation/utf8-validator)
-     - [Goodtables](http://try.goodtables.io/): checks tabular data sources for structural problems
      - Xcode command line: This will occur in the MacOS environment. Installed Atom plus some XML plugins, it will offer to install Xcode CLI. Install it.
-     - [JSONJSONLint](https://jsonlint.com/): The JSON Validator
-     - [JsonFormatter](https://jsonformatter.org/json-parser): JSON validator
+     + Validators:
+          - [JSONJSONLint](https://jsonlint.com/): The JSON Validator
+          - [JsonFormatter](https://jsonformatter.org/json-parser): JSON validator
+          - [Dataproofer](https://github.com/dataproofer/Dataproofer): checks sanity of records and look for duplicate registers
+          - [UTF-8 Validation Tool](https://github.com/digital-preservation/utf8-validator)
+          - [Goodtables](http://try.goodtables.io/): checks tabular data sources for structural problems
 
 * Online tools
      - [Smash](https://www.fromsmash.com/): unlimited digital moving/transfer of digital assets
