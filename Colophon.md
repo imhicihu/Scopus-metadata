@@ -22,6 +22,7 @@
           - [JsonFormatter](https://jsonformatter.org/json-parser): JSON validator
           - [Dataproofer](https://github.com/dataproofer/Dataproofer): checks sanity of records and look for duplicate registers
           - [UTF-8 Validation Tool](https://github.com/digital-preservation/utf8-validator)
+          - [JSONView](https://chrome.google.com/webstore/detail/jsonview/chklaanhfefbnpoihckbnefhakgolnmc): Validate and view JSON documents
           - [Goodtables](http://try.goodtables.io/): checks tabular data sources for structural problems
 
 * Online tools
