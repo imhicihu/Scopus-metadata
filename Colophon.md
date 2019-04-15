@@ -4,7 +4,7 @@
      - Macbook 13 inch 
 
 * Software
-     - [Atom](https://atom.io/)
+     + [Atom](https://atom.io/)
          - Plugins: (install this plugins)
              - xml-formatter
              - autocomplete-xml
@@ -24,6 +24,8 @@
           - [UTF-8 Validation Tool](https://github.com/digital-preservation/utf8-validator)
           - [JSONView](https://chrome.google.com/webstore/detail/jsonview/chklaanhfefbnpoihckbnefhakgolnmc): Validate and view JSON documents
           - [Goodtables](http://try.goodtables.io/): checks tabular data sources for structural problems
+     + Bibliographic searcher:
+        - [ScienceFair](http://sciencefair-app.com): Discover, collect, organise, read and analyse scientific papers.
 
 * Online tools
      - [Smash](https://www.fromsmash.com/): unlimited digital moving/transfer of digital assets
