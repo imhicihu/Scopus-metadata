@@ -25,7 +25,10 @@
           - [JSONView](https://chrome.google.com/webstore/detail/jsonview/chklaanhfefbnpoihckbnefhakgolnmc): Validate and view JSON documents
           - [Goodtables](http://try.goodtables.io/): checks tabular data sources for structural problems
      + Bibliographic searcher:
-        - [ScienceFair](http://sciencefair-app.com): Discover, collect, organise, read and analyse scientific papers.
+        - [ScienceFair](http://sciencefair-app.com): Discover, collect, organise, read and analyse scientific papers
+     + Terminal:
+        - [iTerm2](https://www.iterm2.com/): Terminal console for the MacOSX
+        - [Hyper](https://hyper.is/): Terminal console for the MacOSX
 
 * Online tools
      - [Smash](https://www.fromsmash.com/): unlimited digital moving/transfer of digital assets
