@@ -28,6 +28,11 @@
 * Deployment instructions
     - _In the making_
 
+### Related repositories ###
+
+* Some repositories linked with this project:
+     - [Temas Medievales](https://bitbucket.org/imhicihu/temas-medievales-project/src/)
+
 ### Issues ###
 
 * Check them on [here](https://bitbucket.org/imhicihu/scopus-metadata/issues)
