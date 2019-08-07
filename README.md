@@ -18,15 +18,16 @@
 * Summary of set up
     - _Vide_ [Colophon.md](https://bitbucket.org/imhicihu/scopus-metadata/src/e20bd6d0b69dacf52ea480137fbb338396d44844/Colophon.md?at=master&fileviewer=file-view-default)
 * Configuration
-    - _In the making_
+    - Check [Colophon.md](https://bitbucket.org/imhicihu/scopus-metadata/src/master/Colophon.md)
 * Dependencies
-    - _In the making_
+    - Up to now, there is no dependencies
 * Database configuration
-    - _In the making_
+    - XML treatment and handling needs some [software](https://bitbucket.org/imhicihu/scopus-metadata/src/master/Colophon.md) to apply the recipe
 * How to run tests
-    - _In the making_
+    - Check [data gathered.md](https://bitbucket.org/imhicihu/scopus-metadata/src/master/Data_gathered.md)
 * Deployment instructions
-    - _In the making_
+    - Check [XML formatting.md](https://bitbucket.org/imhicihu/scopus-metadata/src/master/XML_formatting.md)
+    - Check [Bibliography.md](https://bitbucket.org/imhicihu/scopus-metadata/src/master/Bibliography.md)
 
 ### Related repositories ###
 
@@ -47,7 +48,6 @@
     - Contact `imhicihu` at `gmail` dot `com`
 * Other community or team contact
     - Contact is _enable_ on the [board](https://bitbucket.org/imhicihu/scopus-metadata/addon/trello/trello-board) of this repo. (You need a [Trello](https://trello.com/) account)
-
 
 ### Legal ###
 
