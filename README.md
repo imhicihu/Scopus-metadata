@@ -33,6 +33,7 @@
 
 * Some repositories linked with this project:
      - [Temas Medievales](https://bitbucket.org/imhicihu/temas-medievales-project/src/)
+     - [PDF-Inner structure](https://bitbucket.org/imhicihu/pdf-inner-structure/src/master/)
 
 ### Issues ###
 
