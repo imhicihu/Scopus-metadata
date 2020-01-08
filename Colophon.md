@@ -31,6 +31,8 @@
      + Terminal:
           - [iTerm2](https://www.iterm2.com/): Terminal console for the MacOSX
           - [Hyper](https://hyper.is/): Terminal console for the MacOSX
+     - Table converter
+          - [Table convert](https://tableconvert.com/): converter to a plethora of formats
 
 * Online tools
      - [Smash](https://www.fromsmash.com/): unlimited digital moving/transfer of digital assets
