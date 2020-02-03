@@ -17,6 +17,8 @@
      - [oXygen XML Editor](http://www.oxygenxml.com/)
      - [Carbon](https://carbon.now.sh/): (Automatization on code screen sharing)
      - Xcode command line: This will occur in the MacOS environment. Installed Atom plus some XML plugins, it will offer to install Xcode CLI. Install it.
+     + Data converters
+          - [ExcelJson](http://exceljson.com/): convert `.csv` to `.json` and viceversa
      + Validators:
           - [JSONJSONLint](https://jsonlint.com/): The JSON Validator
           - [JsonFormatter](https://jsonformatter.org/json-parser): JSON validator
