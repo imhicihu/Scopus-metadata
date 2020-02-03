@@ -10,7 +10,7 @@
 
 * Quick summary
     - Actions, checklists and procedures applied on xml files, therefore over on metadata datum: gathering data, formatting, internal testings, sorting, _et alia_
-	- A systematize-to_do-checklist formulæ to generate xml files according [Scopus](https://www.scopus.com/)
+	- A systematize-to_do-checklist formula to generate `.xml` files format according [Scopus indexing procedure](https://www.ubijournal.com/scopus-indexed-journals/)
 * Version 1.03
 
 ### How do I get set up? ###
@@ -22,7 +22,7 @@
 * Dependencies
     - Up to now, there is no dependencies
 * Database configuration
-    - XML treatment and handling needs some [software](https://bitbucket.org/imhicihu/scopus-metadata/src/master/Colophon.md) to apply the recipe
+    - `.xml` file format treatment and handling needs some [software](https://bitbucket.org/imhicihu/scopus-metadata/src/master/Colophon.md) to apply the recipe
 * How to run tests
     - Check [data gathered.md](https://bitbucket.org/imhicihu/scopus-metadata/src/master/Data_gathered.md)
 * Deployment instructions
