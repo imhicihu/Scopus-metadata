@@ -20,8 +20,9 @@
      + Data converters
           - [ExcelJson](http://exceljson.com/): convert `.csv` to `.json` and viceversa
      + Validators:
-          - [JSONJSONLint](https://jsonlint.com/): The JSON Validator
+          - [JSONJSONLint](https://jsonlint.com/): JSON Validator
           - [JsonFormatter](https://jsonformatter.org/json-parser): JSON validator
+          - [Json Formatter & Validator](https://jsonformatter.curiousconcept.com/): JSON validator & validator
           - [Dataproofer](https://github.com/dataproofer/Dataproofer): checks sanity of records and look for duplicate registers
           - [UTF-8 Validation Tool](https://github.com/digital-preservation/utf8-validator)
           - [JSONView](https://chrome.google.com/webstore/detail/jsonview/chklaanhfefbnpoihckbnefhakgolnmc): Validate and view JSON documents
