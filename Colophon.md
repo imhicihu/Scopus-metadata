@@ -20,7 +20,7 @@
      + Data converters
           - [ExcelJson](http://exceljson.com/): convert `.csv` to `.json` and viceversa
      + Validators:
-          - [JSONJSONLint](https://jsonlint.com/): JSON Validator
+          - [JSONLint](https://jsonlint.com/): JSON Validator
           - [JsonFormatter](https://jsonformatter.org/json-parser): JSON validator
           - [Json Formatter & Validator](https://jsonformatter.curiousconcept.com/): JSON validator & validator
           - [Dataproofer](https://github.com/dataproofer/Dataproofer): checks sanity of records and look for duplicate registers
