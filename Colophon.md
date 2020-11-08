@@ -39,6 +39,7 @@
 
 * Online tools
      - [Smash](https://www.fromsmash.com/): unlimited digital moving/transfer of digital assets
+     - [Data converters](http://okfnlabs.org/dataconverters/): Unified python library and command line interface to convert data from one format to another (especially tabular data).
      - [JSONPlaceholder](https://jsonplaceholder.typicode.com/): Fake Online REST API for Testing and Prototyping
      - [Plantuml](http://www.plantuml.com/plantuml/uml/):  Diagram / deployment diagram / critical path 
 
