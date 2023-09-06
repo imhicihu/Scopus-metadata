@@ -1,4 +1,4 @@
-![stability-wip](images/477405737-stability_work_in_progress.png)
+![stability-wip](images/3278295154-status_archived.png)
 ![internaluse-green](images/3847436881-internal_use_stable.png)
 
 # RATIONALE #
@@ -11,12 +11,9 @@
 * Quick summary
     - Actions, checklists and procedures applied on xml files, therefore over on metadata datum: gathering data, formatting, internal testings, sorting, _et alia_
 	- A systematize-to_do-checklist formula to generate `.xml` files format according [Scopus indexing procedure](https://www.ubijournal.com/scopus-indexed-journals/)
-* Version 1.03
 
 ### How do I get set up? ###
 
-* Summary of set up
-    - _Vide_ [Colophon.md](Colophon.md)
 * Configuration
     - Check [Colophon.md](Colophon.md)
 * Dependencies
