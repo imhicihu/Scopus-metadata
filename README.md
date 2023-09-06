@@ -1,10 +1,10 @@
-![stability-wip](https://bitbucket.org/repo/ekyaeEE/images/477405737-stability_work_in_progress.png)
-![internaluse-green](https://bitbucket.org/repo/ekyaeEE/images/3847436881-internal_use_stable.png)
+![stability-wip](images/477405737-stability_work_in_progress.png)
+![internaluse-green](images/3847436881-internal_use_stable.png)
 
 # RATIONALE #
 
 * Good practices on metadata insertion on digital assets, according to guidelines and checklists by Scopus
-![scopus.jpeg](https://bitbucket.org/repo/64jkj76/images/1207730341-scopus.jpeg)
+![scopus.jpeg](images/1207730341-scopus.jpeg)
 
 ### What is this repository for? ###
 
@@ -16,18 +16,18 @@
 ### How do I get set up? ###
 
 * Summary of set up
-    - _Vide_ [Colophon.md](https://bitbucket.org/imhicihu/scopus-metadata/src/e20bd6d0b69dacf52ea480137fbb338396d44844/Colophon.md?at=master&fileviewer=file-view-default)
+    - _Vide_ [Colophon.md](Colophon.md)
 * Configuration
-    - Check [Colophon.md](https://bitbucket.org/imhicihu/scopus-metadata/src/master/Colophon.md)
+    - Check [Colophon.md](Colophon.md)
 * Dependencies
     - Up to now, there is no dependencies
 * Database configuration
-    - `.xml` file format treatment and handling needs some [software](https://bitbucket.org/imhicihu/scopus-metadata/src/master/Colophon.md) to apply the recipe
+    - `.xml` file format treatment and handling needs some [software](Colophon.md) to apply the recipe
 * How to run tests
-    - Check [data gathered.md](https://bitbucket.org/imhicihu/scopus-metadata/src/master/Data_gathered.md)
+    - Check [data gathered.md](Data_gathered.md)
 * Deployment instructions
-    - Check [XML formatting.md](https://bitbucket.org/imhicihu/scopus-metadata/src/master/XML_formatting.md)
-    - Check [Bibliography.md](https://bitbucket.org/imhicihu/scopus-metadata/src/master/Bibliography.md)
+    - Check [XML formatting.md](XML_formatting.md)
+    - Check [Bibliography.md](Bibliography.md)
 
 ### Related repositories ###
 
@@ -47,12 +47,10 @@
 
 * Repo owner or admin
     - Contact `imhicihu` at `gmail` dot `com`
-* Other community or team contact
-    - Contact is _enable_ on the [board](https://bitbucket.org/imhicihu/scopus-metadata/addon/trello/trello-board) of this repo. (You need a [Trello](https://trello.com/) account)
 
 ### Code of Conduct
 
-* Please, check our [Code of Conduct](https://bitbucket.org/imhicihu/scopus-metadata/src/master/code_of_conduct.md)
+* Please, check our [Code of Conduct](code_of_conduct.md)
 
 ### Legal ###
 
@@ -60,4 +58,4 @@
 
 ### Licence ###
 
-* The content of this project itself is licensed under the ![MIT Licence](https://bitbucket.org/repo/ekyaeEE/images/2049852260-MIT-license-green.png)   
+* The content of this project itself is licensed under the ![MIT Licence](images/2049852260-MIT-license-green.png)   
