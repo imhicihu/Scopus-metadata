@@ -1,4 +1,4 @@
-## Technical requirements ##
+### Technical requirements
 
 * Hardware
      - Macbook 13 inch 
@@ -43,6 +43,6 @@
      - [JSONPlaceholder](https://jsonplaceholder.typicode.com/): Fake Online REST API for Testing and Prototyping
      - [Plantuml](http://www.plantuml.com/plantuml/uml/):  Diagram / deployment diagram / critical path 
 
-## Legal ##
+### Legal
 
 * All trademarks are the property of their respective owners.
