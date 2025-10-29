@@ -1,3 +1,9 @@
+<p align="center">
+  <img src="images/9GVww258QVGWQpCdk4GpZA.webp?raw=true" alt="Logotipo de Scopus-metadata"/>
+</p>
+
+---
+
 ![stability-wip](images/3278295154-status_archived.png)
 ![internaluse-green](images/3847436881-internal_use_stable.png)
 
